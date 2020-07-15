@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "454351960614",
+    "firebase_url": "https://covidblog-aae91.firebaseio.com",
+    "project_id": "covidblog-aae91",
+    "storage_bucket": "covidblog-aae91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454351960614:android:4b85cb226c970251e1c4e7",
+        "android_client_info": {
+          "package_name": "com.example.covidblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454351960614-ee2jn8mkubhb5tce8hr23gb450prb1n9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.covidblog",
+            "certificate_hash": "159e4b230b0badd5727856a10cafc41f603d24e1"
+          }
+        },
+        {
+          "client_id": "454351960614-k5mcrrrhr7i9ktdli35qe2rj07s7tnft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0bOxzQv7ls-QUPqIN3bsSsXG7iZscfUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454351960614-k5mcrrrhr7i9ktdli35qe2rj07s7tnft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
